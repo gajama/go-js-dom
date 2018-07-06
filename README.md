@@ -1,11 +1,4 @@
 # js/dom
 
-Package dom provides GopherJS bindings for the JavaScript DOM APIs.
+Fork to adapt for use with new wasm build target.
 
-## Install
-
-    go get honnef.co/go/js/dom
-
-## Documentation
-
-For documentation, see http://godoc.org/honnef.co/go/js/dom
